@@ -1,0 +1,1 @@
+# FLAIR-2-Semantic-Segmentation-from-Earth-Observation-data-3rd-Place-Solution
